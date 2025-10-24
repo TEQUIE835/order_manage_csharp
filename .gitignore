@@ -1,0 +1,4 @@
+/orderManage.Infrastructure/Persistence/Migrations/
+/orderManage.Api/appsettings.json
+/orderManage.Api/appsettings.Development.json
+/orderManage.Api/obj/
