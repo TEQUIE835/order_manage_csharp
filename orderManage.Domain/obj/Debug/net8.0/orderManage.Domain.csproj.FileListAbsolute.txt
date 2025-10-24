@@ -1,0 +1,11 @@
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/bin/Debug/net8.0/orderManage.Domain.deps.json
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/bin/Debug/net8.0/orderManage.Domain.dll
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/bin/Debug/net8.0/orderManage.Domain.pdb
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/orderManage.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/orderManage.Domain.AssemblyInfoInputs.cache
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/orderManage.Domain.AssemblyInfo.cs
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/orderManage.Domain.csproj.CoreCompileInputs.cache
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/orderManage.Domain.dll
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/refint/orderManage.Domain.dll
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/orderManage.Domain.pdb
+/media/tequie/Lexar/Programacion/Practicas_C#/Hu1M2/orderManage.Domain/obj/Debug/net8.0/ref/orderManage.Domain.dll
