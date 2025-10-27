@@ -1,4 +1,9 @@
-/orderManage.Infrastructure/Persistence/Migrations/
-/orderManage.Api/appsettings.json
-/orderManage.Api/appsettings.Development.json
-/orderManage.Api/obj/
+**/bin/
+**/obj/
+**/.idea
+# Ignorar appsettings locales
+**/appsettings.Development.json
+**/appsettings.json
+**/.env
+# Ignorar archivo temporal específico
+temp.txt
