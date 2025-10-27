@@ -6,7 +6,7 @@ using orderManage.Domain.Entities;
 namespace orderManage.Api.Controllers;
 
 [ApiController]
-[Route("[controller")]
+[Route("[controller]")]
 public class OrderController : ControllerBase
 {
     private readonly OrderService _orderServ;

@@ -10,7 +10,11 @@ COPY ["orderManage.Api/orderManage.Api.csproj", "orderManage.Api/"]
 COPY ["orderManage.Application/orderManage.Application.csproj", "orderManage.Application/"]
 COPY ["orderManage.Domain/orderManage.Domain.csproj", "orderManage.Domain/"]
 COPY ["orderManage.Infrastructure/orderManage.Infrastructure.csproj", "orderManage.Infrastructure/"]
+RUN dotnet restore "orderManage.Domain/orderManage.Domain.csproj"
+RUN dotnet restore "orderManage.Application/orderManage.Application.csproj"
+RUN dotnet restore "orderManage.Infrastructure/orderManage.Infrastructure.csproj"
 RUN dotnet restore "orderManage.Api/orderManage.Api.csproj"
+
 
 COPY . .
 WORKDIR "/src/orderManage.Api"
